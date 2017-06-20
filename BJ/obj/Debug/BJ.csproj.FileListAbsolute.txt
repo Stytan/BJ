@@ -1,0 +1,6 @@
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#09\DZ_9\BJ\bin\Debug\BJ.exe.config
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#09\DZ_9\BJ\obj\Debug\BJ.csprojResolveAssemblyReference.cache
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#09\DZ_9\BJ\bin\Debug\BJ.exe
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#09\DZ_9\BJ\bin\Debug\BJ.pdb
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#09\DZ_9\BJ\obj\Debug\BJ.exe
+D:\Documents\ITstep\Dropbox (Личный)\Develop\ItStep\C#\C#09\DZ_9\BJ\obj\Debug\BJ.pdb
